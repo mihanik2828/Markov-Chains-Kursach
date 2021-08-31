@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\КурсоваяЦепиМаркова\КурсоваяЦепиМаркова\Source.cpp(15,13): warning C4101: re: неиспользованная локальная переменная
+C:\Users\user\source\repos\КурсоваяЦепиМаркова\КурсоваяЦепиМаркова\Source.cpp(14,12): warning C4101: p: неиспользованная локальная переменная
+C:\Users\user\source\repos\КурсоваяЦепиМаркова\КурсоваяЦепиМаркова\Source.cpp(15,9): warning C4101: r1: неиспользованная локальная переменная
+  КурсоваяЦепиМаркова.vcxproj -> C:\Users\user\source\repos\КурсоваяЦепиМаркова\Debug\КурсоваяЦепиМаркова.exe
